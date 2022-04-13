@@ -1,0 +1,13 @@
+{
+    "name": "Docs to Anki",
+    "version": "1.0.0",
+    "description": "Automated Anki Flashcard Creation Through Google Chrome",
+    "manifest_version": 3,
+    "author": "Ethan McDermott",
+    "permissions": [
+        "contextMenus"
+    ],
+    "action":{
+        "default_title": "Docs to Anki"
+    }
+}
